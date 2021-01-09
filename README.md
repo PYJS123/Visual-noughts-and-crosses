@@ -1,7 +1,7 @@
 # Visual-noughts-and-crosses
 A second version of my previous python noughts and crosses, with Pygame Zero for visualisation.
 
-( I just decided to upload this- ***sorry***!)
+( I just decided to upload this- ***sorry***! Also sorry I couldn't host this on a webpage)
 
 Pygame Zero logo:
 ![alt text](https://pygame-zero.readthedocs.io/en/stable/_static/logo.svg)
