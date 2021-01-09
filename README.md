@@ -18,3 +18,5 @@ Mu Editor Logo:
 2. Open `intro.py` in Mu
 3. Change Mode to 'Pygame Zero'
 4. Run the code!
+
+![alt text](Pygame%20window.PNG)
