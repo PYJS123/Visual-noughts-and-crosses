@@ -1,6 +1,9 @@
 # Visual-noughts-and-crosses
 A second version of my previous python noughts and crosses, with Pygame Zero for visualisation.
 
+Pygame Zero logo:
+![alt text](https://pygame-zero.readthedocs.io/en/stable/_static/logo.svg)
+
 ( I just decided to upload this- ***sorry***!)
 
 
@@ -8,4 +11,8 @@ A second version of my previous python noughts and crosses, with Pygame Zero for
 
 ## How to run this Pygame Zero game:
 ### If you have The Mu editor:
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmu-editor%2Fmu&psig=AOvVaw0uqB7g3ch_XNwt-yzRAwzd&ust=1610296559835000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiLwaWkj-4CFQAAAAAdAAAAABAE)
+Mu Editor Logo:
+![alt text](https://avatars2.githubusercontent.com/u/17850097?s=400&v=4)
+
+1. Download this repository
+2. Open `intro.py`
