@@ -20,3 +20,19 @@ Mu Editor Logo:
 4. Run the code!
 
 ![alt text](Pygame%20window.PNG)
+
+
+
+### If you don't have Mue editor:
+
+1. Install python and pygame zero, and, if not already downloaded, pgzrun
+2. Download this repository
+3. Go to your computer's terminal
+4. Navigate to the file
+5. Type in `pgzrun intro.py`
+
+
+
+
+
+***Have fun!!!***
