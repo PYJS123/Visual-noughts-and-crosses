@@ -23,7 +23,7 @@ Mu Editor Logo:
 
 
 
-### If you don't have Mue editor:
+### If you don't have Mu editor:
 
 1. Install python and pygame zero, and, if not already downloaded, pgzrun
 2. Download this repository
